@@ -1,1 +1,1 @@
-# GofOfWarRagnaroc - Верстка сайта ➤ JS, HTML, SCSS, WEBPACK, SWIPER с анимацией
+# GotOfWarRagnaroc - Верстка сайта ➤ JS, HTML, SCSS, WEBPACK, SWIPER с анимацией
